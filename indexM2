@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Module 2 test NPatel</title>
+	<link rel="stylesheet" href="CSSM2.css">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+</head>
+<body>
+
+<h1> Our Menu </h1>
+
+<div class="container">
+ 
+
+	<section class="box1">  <h2 class="r"> Chicken </h2> 
+	<span> <h3> Succulent Chicken Kiev with sweet potato mash and seasonal greens </h3> </span> 
+	</section>
+
+	<section class="box2"> <h2 class="o"> Beef </h2> 
+	<span> <h3> Beef bourguignon with baby carrots and a side of gratin  </h3> </span> 
+	</section>
+
+	 	
+	<section class="box3">  <h2 class="p"> Sushi </h2> 
+	<span> <h3> A tasting platter of nigiri, chirashi, onigiri, inarizushi and oshizushi  </h3> </span> 
+	</section>
+
+</div>
+
+</body>
+
+</html>
+
